@@ -1,0 +1,52 @@
+Colina 4
+Lampa 1
+Til Til 1 
+Pirque 4
+Puente Alto 2
+San José de Maipo 1
+Buin 4 
+Calera de Tango 4
+Paine 3
+San Bernardo 4
+Alhué 2
+Curacaví 4
+María Pinto 2
+Melipilla 4
+San Pedro 3
+Cerrillos 1
+Cerro Navia 2
+Conchalí 3 
+El Bosque 2
+Estación Central 1
+Huechuraba 2
+Independencia 2
+La Cisterna 3
+La Granja 1
+La Florida 4 
+La Pintana 2
+La Reina 1
+Las Condes 2
+Lo Barnechea 3
+Lo Espejo 2
+Lo Prado 1
+Macul 2
+Maipú 3
+Ñuñoa 4
+Pedro Aguirre Cerda 2
+Peñalolén 3
+Providencia 1
+Pudahuel 3
+Quilicura 2
+Quinta Normal 4
+Recoleta 2
+Renca 4
+San Miguel 4
+San Joaquín 4
+San Ramón 3
+Santiago 3
+Vitacura 3
+El Monte 2
+Isla de Maipo 2
+Padre Hurtado 2
+Peñaflor 1
+Talagante 1
