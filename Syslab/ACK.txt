@@ -1,3 +1,0 @@
-lstResponde.Items.Clear ;
-lstResponde.Items.Add( 'MSH|^~\&|||||#FECHA||ORR^O02|'+cNumExa+'|P|2.3.1||||||UNICODE' ) ;
-lstResponde.Items.Add( 'MSA|AA|' + cNumExa ) ;
